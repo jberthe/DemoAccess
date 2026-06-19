@@ -1,0 +1,4 @@
+@EndUserText.label: 'ZC_ProductAnalyseROTP'
+define service ZC_ProductAnalyseROTP {
+  expose ZC_ProductAnalyseROTP;
+}
